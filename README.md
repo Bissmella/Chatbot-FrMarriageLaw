@@ -1,6 +1,6 @@
 
 <p align="center">
-## English|[French](README_fr.md)
+English|<a href="README.fr.md">French</a>
 </p>
 # Chatbot-France Marriage Law
 
