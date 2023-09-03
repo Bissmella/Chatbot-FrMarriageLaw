@@ -1,5 +1,6 @@
-## [anglais](README.md)
-
+<p align="center">
+Français|<a href="README.md">Anglais</a>
+</p>
 # Chatbot-Loi sur le Mariage en France
 
 Créez un chatbot français pour répondre aux questions basées sur un document en utilisant Google Colab. Dans notre cas, nous utilisons des données extraites du site Web de la législation française : [Site Web de la Législation Française](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117710/#LEGISCTA000006117710)
